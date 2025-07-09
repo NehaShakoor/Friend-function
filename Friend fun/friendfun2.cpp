@@ -40,6 +40,6 @@ int add(ClassA objectA, ClassB objectB) {
 int main() {
     ClassA objectA;
     ClassB objectB;
-    cout << "Sum: " << add(objectA, objectB);
+    cout << "Sum of object A and B: " << add(objectA, objectB);
     return 0;
 }
